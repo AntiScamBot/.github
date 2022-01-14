@@ -8,3 +8,7 @@
 🍿 Fun fact: Discord is Discord, Wumpus is Wumpus, Wungus is Wungus and AntiScam is AntiScam.\
 🧙 SHAZAM!
 
+
+## Builds
+AntiScam Link List: <img alt="AntiScam Bot CodeQL Check" src="https://img.shields.io/github/workflow/status/AntiScamBot/Anti-Scam-Link-List/CodeQL?label=build&style=flat">\
+AntiScam API: <img alt="AntiScam Bot CodeQL Check" src="https://img.shields.io/github/workflow/status/AntiScamBot/backend/CodeQL?label=build&style=flat">
